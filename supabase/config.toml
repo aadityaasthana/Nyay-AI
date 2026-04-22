@@ -1,0 +1,10 @@
+project_id = "ddpxvxhxgudqwnkndfbb"
+
+[functions.run-agents]
+verify_jwt = false
+
+[functions.transcribe-voice]
+verify_jwt = false
+
+[functions.generate-pdf]
+verify_jwt = false
